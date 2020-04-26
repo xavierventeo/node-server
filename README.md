@@ -12,10 +12,12 @@ Simple example how to create a node server and how to attend http requests
 3.- Go to local node-server folder and open a terminal 
 
 4.- Create the package.json file for the project executing in the terminal
+
     $ npm-init
     Pulse intro to all the request and write yes when at the end it request 'Is this OK?'
 
 5.- Now, you are ready to launch the server, type in the terminal:
+
     $ node index.js
 
 6.- In your terminal will appear the following message:
