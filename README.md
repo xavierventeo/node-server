@@ -1,5 +1,7 @@
 # Training: create a node server
 
+Simple example how to create a node server and how to attend http requests
+
 
 # Getting Started
 
